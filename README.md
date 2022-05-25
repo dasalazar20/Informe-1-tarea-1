@@ -35,18 +35,18 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 2.1.3.	Notacion de Ingenieria y Prefijos Matricos 
 
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_5.png)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_5.jpg)
 
 2.1.4.	Conversiones de Unidades Métricas
 
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_6.png)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_6.jpg)
 
    2.2	Voltaje, Corriente y Resistencia
    
 2.2.1 Estructura Atómica
 
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_7.jpg)
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_8.png)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_8.jpg)
 
 2.2.2 Carga Eléctrica
 
