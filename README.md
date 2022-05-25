@@ -172,35 +172,35 @@ c) 1MW / 2kW
 
 2) ¿Cuál es la carga en coulomb del núcleo de un átomo de cloro?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%202.png)
 
 4) ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%204.png)
 
 6) Se utilizan quinientos Joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%206.png)
 
 8) ¿Cuánta energía utiliza una batería de 12 V para mover 2,5 C por un circuito?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%208.png)
 
 10) Determine la corriente en cada uno de los siguientes casos:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2010.png)
 
 12) ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2012.png)
 
 14) 5.74 * 10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2014.png)
 
 16) Encuentre la resistencia correspondiente a las siguientes conductancias:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2016.png)
 
 18) ¿En qué principio se basan los generadores eléctricos?
 
@@ -208,11 +208,11 @@ R= Los generadores eléctricos se basaron en un principio llamado “inducción 
 
 20) Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿cuál es la corriente en la carga?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2020.png)
 
 22) Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 2 
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2022.png)
 
 24) Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
@@ -236,41 +236,44 @@ R= La resistencia entre cada terminal y el contacto ajustable es de 500 Ω
 
 30) Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2030.png)
 
 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra la corriente excesiva. 
 
+
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2032.png)
+
 34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2034.png)
 
 R= Siempre hay corriente atreves del resistor R5
 
 36) Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2036.png)
 
 R= colocando un interruptor rotatorio, la entrada conectada al fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM y la salida conectado a la entrada del amplificador
 
 38) Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2038.png)
 
 R= Desconectar la batería del circuito eléctrico y con los terminales positivo y negativo del óhmetro colocar en los terminales de R2 no importa su polaridad
 
 40) En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2040.png)
 
 R= se coloca el terminal positivo del amperímetro en el terminal positivo de la batería luego el terminal negativo del amperímetro se puede colocar en entre la salida 1 del interruptor y en R2
 
 42) Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2042.png)
 
 44) ¿Cuánta resistencia está midiendo el óhmetro de la figura 2-75?
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2044.png)
 
 R= Esta midiendo 100Ω
 
