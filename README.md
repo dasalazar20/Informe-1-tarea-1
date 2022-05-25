@@ -23,7 +23,7 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 2. MARCO TEORICO
   
-      2.1 Cantidades y Unidades
+     2.1 Cantidades y Unidades
       
 2.1.1 Unidades de Medición
 
