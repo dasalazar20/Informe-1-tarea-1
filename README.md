@@ -280,3 +280,17 @@ R= Esta midiendo 100Ω
 46) ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
 R= La resolución máxima de un multímetro digital de 4 ½ es hasta 19,999 cuentas de resolución.
+
+4. # VIDEO
+
+5. # CONCLUSIONES
+
+CAPITULO 1 
+
+Al momento de la redacción y resolución de los ejercicios del capítulo 1 de “Principios de Circuitos Eléctricos” de Floyd se logro reconocer las unidades de medición que se ocupan tanto en el campo de la electricidad como en el campo de electrónica, la utilización de la notación científica y notación de ingeniería con los respectivos prefijos métricos  para la representación de unidades grandes o pequeñas cantidades y por ultimo saber cómo realizar correctamente  conversiones de unidades metricas.
+
+CAPITULO 2 
+
+Al realizar la redacción y resolución de los ejercicios del capítulo 2 de “Principios de Circuitos Eléctricos” de Floyd se analizó la estructura atómica para identificar materiales que sean de tipo conductor, semiconductor y aislante. En cualquier circuito eléctrico la corriente, el voltaje y la resistencia están presente y cada unidad tiene su respectiva formula. Se logro reconocer los diferentes elementos básicos que conforman un circuito eléctrico y el mas estudiado fue los resistores, con su lectura de código de colores para 4 y 5 bandas. Por último, se realizó mediciones de voltaje, corriente y resistencia con la ayuda del multímetro con su respectiva lectura tanto en multímetros analógicos como en digitales.
+
+6. # BIBLIOGRAFIA
