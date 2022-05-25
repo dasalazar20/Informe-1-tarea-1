@@ -281,6 +281,8 @@ R= La resolución máxima de un multímetro digital de 4 ½ es hasta 19,999 cuen
 
 # 4. VIDEO
 
+https://youtu.be/VgNfMB__mO4
+
 # 5. CONCLUSIONES
 
 CAPITULO 1 
