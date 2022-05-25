@@ -52,4 +52,6 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_9.jpg)
 
+2.2.1 Voltaje,Corriente y Resistencia 
 
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_10.jpg)
