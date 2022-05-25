@@ -1,5 +1,5 @@
 # Informe-1-tarea-1
-  1. OBJETIVOS 
+  #1. OBJETIVOS 
  
 1.1 Objetivo General
 
