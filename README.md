@@ -292,3 +292,5 @@ CAPITULO 2
 Al realizar la redacción y resolución de los ejercicios del capítulo 2 de “Principios de Circuitos Eléctricos” de Floyd se analizó la estructura atómica para identificar materiales que sean de tipo conductor, semiconductor y aislante. En cualquier circuito eléctrico la corriente, el voltaje y la resistencia están presente y cada unidad tiene su respectiva formula. Se logro reconocer los diferentes elementos básicos que conforman un circuito eléctrico y el mas estudiado fue los resistores, con su lectura de código de colores para 4 y 5 bandas. Por último, se realizó mediciones de voltaje, corriente y resistencia con la ayuda del multímetro con su respectiva lectura tanto en multímetros analógicos como en digitales.
 
 # 6. BIBLIOGRAFIA
+
+  Floyd, T. L. (2007). Principios de Circuitos Eléctricos Floyd (Octava Edición, Vol. 1). Pearson Educación.
