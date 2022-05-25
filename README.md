@@ -70,4 +70,11 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_14.jpg)
 
 2.2.7.	Mediciones de Circuitos Básicas
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_15.jpg)
+
+2.2.8.	Seguridad Eléctrica
+
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_16.jpg)
+
+
