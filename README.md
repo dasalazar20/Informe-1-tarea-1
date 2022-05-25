@@ -1,5 +1,5 @@
 # Informe-1-tarea-1
-  # 1. OBJETIVOS 
+1. OBJETIVOS 
  
 1.1 Objetivo General
 
@@ -21,9 +21,9 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 •	Realizar mediciones básicas en circuitos eléctricos con un multímetro
 
-# 2. MARCO TEORICO
+2. MARCO TEORICO
   
-   2.1 Cantidades y Unidades
+      2.1 Cantidades y Unidades
       
 2.1.1 Unidades de Medición
 
