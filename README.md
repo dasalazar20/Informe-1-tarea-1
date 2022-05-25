@@ -139,20 +139,25 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 28) Determine lo siguiente:
 
 a) El número de micro amperes en 1 miliampere:
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.1.png)
 
 b) El número de milivolts en 0.05 kilovolts:
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.2.png)
 
 c) El número de megohms en 0.02 kilohms:
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.3.png)
 
 d) El número de kilowatts en 155 mili watts:
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.4.png)
 
 30) Realice las siguientes operaciones:
 
 a) 10kΩ / (2,2kΩ+10 kΩ)
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.1.png)
 
 b) 250 mV / 5 µV
