@@ -28,3 +28,8 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 2.1.1 Unidades de Medición
 
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/IMG1.png)
+
+2.1.2 Notación Científica 
+
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_4.jpg)
+
