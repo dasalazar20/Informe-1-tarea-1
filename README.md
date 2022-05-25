@@ -85,80 +85,80 @@ Capítulo 1 (Cantidades y unidades)
 
 2) Exprese cada número fraccionario en notación científica:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%202%20.png)
 
 4) Exprese cada uno de los números siguientes en notación científica:
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%204.png)
 
 6) Exprese cada uno de los números siguientes como un número decimal regular
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%206.png)
 
 8) Exprese cada número de los siguientes como un número decimal regular:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%208.png)
 
 10) Efectúe las siguientes sustracciones:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2010.png)
 
 12) Realice las siguientes divisiones:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2012.png)
 
 14) Exprese cada número en notación de ingeniería:}
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2014.png)
 
 16) Exprese cada número en notación de ingeniería:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2016.png)
 
 18) Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2018.png)
 
 20)  Exprese cada número del problema 13 en ohms por medio de un prefijo métrico:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2020.png)
 
 22) Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2022.png)
 
 24) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2024.png)
 
 26) Exprese cada cantidad en notación de ingeniería:
 
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2026.png)
 
 
 28) Determine lo siguiente:
 
 a) El número de micro amperes en 1 miliampere:
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.1.png)
 
 b) El número de milivolts en 0.05 kilovolts:
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.2.png)
 
 c) El número de megohms en 0.02 kilohms:
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.3.png)
 
 d) El número de kilowatts en 155 mili watts:
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2028.4.png)
 
 30) Realice las siguientes operaciones:
 
 a) 10kΩ / (2,2kΩ+10 kΩ)
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.1.png)
 
 b) 250 mV / 5 µV
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.2.png)
 
 c) 1MW / 2kW
-![]()
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.3.png)
 
 # Capitulo 2
 
