@@ -81,13 +81,14 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
  Realizar los ejercicios pares del capitulo 1 y 2 del libro “Principios de Circuitos Eléctricos” de Floyd 
 
-Capítulo 1 (Cantidades y unidades)
+# Capítulo 1 (Cantidades y unidades)
 
 2) Exprese cada número fraccionario en notación científica:
 
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%202%20.png)
 
 4) Exprese cada uno de los números siguientes en notación científica:
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%204.png)
 
 6) Exprese cada uno de los números siguientes como un número decimal regular
