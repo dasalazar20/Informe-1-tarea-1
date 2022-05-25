@@ -279,7 +279,7 @@ R= Esta midiendo 100Ω
 
 R= La resolución máxima de un multímetro digital de 4 ½ es hasta 19,999 cuentas de resolución.
 
-4. # VIDEO
+# 4. VIDEO
 
 # 5. CONCLUSIONES
 
