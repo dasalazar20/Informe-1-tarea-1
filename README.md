@@ -35,7 +35,7 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 2.1.3.	Notacion de Ingenieria y Prefijos Matricos 
 
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_5.jpg)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Circuitos_Elctricos_5.png)
 
 2.1.4.	Conversiones de Unidades Métricas
 
@@ -54,7 +54,7 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 2.2.3 Voltaje,Corriente y Resistencia 
 
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_10.jpg)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Circuitos_Elctricos_10.png)
 
 2.2.4	Fuentes de Voltajes y de Corrientes
 
@@ -125,11 +125,11 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 22) Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
 
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2022.png)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2022..png)
 
 24) Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
 
-![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2024.png)
+![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2024..png)
 
 26) Exprese cada cantidad en notación de ingeniería:
 
