@@ -1,5 +1,5 @@
 # Informe-1-tarea-1
-1. OBJETIVOS 
+# 1. OBJETIVOS 
  
 1.1 Objetivo General
 
@@ -21,7 +21,7 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 •	Realizar mediciones básicas en circuitos eléctricos con un multímetro
 
-2. MARCO TEORICO
+# 2. MARCO TEORICO
   
      2.1 Cantidades y Unidades
       
@@ -77,7 +77,7 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Imagenes/Informe%201%20Circuitos_16.jpg)
 
-3.Explicación y Resolución de Ejercicios 
+# 3.Explicación y Resolución de Ejercicios 
 
  Realizar los ejercicios pares del capitulo 1 y 2 del libro “Principios de Circuitos Eléctricos” de Floyd 
 
@@ -134,7 +134,6 @@ Analizar y comprender las diferentes unidades de medición del campo de la elect
 26) Exprese cada cantidad en notación de ingeniería:
 
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2026.png)
-
 
 28) Determine lo siguiente:
 
@@ -240,7 +239,6 @@ R= La resistencia entre cada terminal y el contacto ajustable es de 500 Ω
 
 32) Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra la corriente excesiva. 
 
-
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%202/ejercicio%2032.png)
 
 34) ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
@@ -283,7 +281,7 @@ R= La resolución máxima de un multímetro digital de 4 ½ es hasta 19,999 cuen
 
 4. # VIDEO
 
-5. # CONCLUSIONES
+# 5. CONCLUSIONES
 
 CAPITULO 1 
 
@@ -293,4 +291,4 @@ CAPITULO 2
 
 Al realizar la redacción y resolución de los ejercicios del capítulo 2 de “Principios de Circuitos Eléctricos” de Floyd se analizó la estructura atómica para identificar materiales que sean de tipo conductor, semiconductor y aislante. En cualquier circuito eléctrico la corriente, el voltaje y la resistencia están presente y cada unidad tiene su respectiva formula. Se logro reconocer los diferentes elementos básicos que conforman un circuito eléctrico y el mas estudiado fue los resistores, con su lectura de código de colores para 4 y 5 bandas. Por último, se realizó mediciones de voltaje, corriente y resistencia con la ayuda del multímetro con su respectiva lectura tanto en multímetros analógicos como en digitales.
 
-6. # BIBLIOGRAFIA
+# 6. BIBLIOGRAFIA
