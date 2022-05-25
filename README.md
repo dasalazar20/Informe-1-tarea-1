@@ -161,9 +161,11 @@ a) 10kΩ / (2,2kΩ+10 kΩ)
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.1.png)
 
 b) 250 mV / 5 µV
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.2.png)
 
 c) 1MW / 2kW
+
 ![](https://github.com/dasalazar20/Informe-1-tarea-1/blob/main/Ejercicios/Capitulo%201/Ejercicio%2030.3.png)
 
 # Capitulo 2
